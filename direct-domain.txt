@@ -7,6 +7,8 @@
 360.cn
 5gtv.com.cn
 airstarbank.com
+alibaba.cn
+alibaba.com.cn
 alihealth.com.cn
 alios.cn
 alipay.com.cn
@@ -27,10 +29,12 @@ chinatelecom.com.cn
 chinaunicom.cn
 chinaunicom.com.cn
 chiyubank.com
+chsi.com.cn
 citibank.com.hk
 cmbc.com.cn
 cmbwinglungbank.com
 cncbinternational.com
+cnspeedtest.cn
 cnzz.net
 coze.cn
 ctadns.cn
@@ -75,6 +79,7 @@ icbcasia.com
 iconfont.cn
 jd.cn
 jiguang.cn
+jinye.cn
 jk.cn
 jpush.cn
 kfc.com.cn
@@ -102,6 +107,7 @@ quark.cn
 rexpos.cn
 sc.com
 sdb.com.cn
+sgcc.com.cn
 shuzilm.cn
 sina.cn
 sina.com.cn
