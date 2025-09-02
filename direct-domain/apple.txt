@@ -3,4 +3,5 @@ apple.com
 apple.com.cn
 icloud.com
 icloud.com.cn
+icloud-content.com
 icloud-content.com.cn
