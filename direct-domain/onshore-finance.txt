@@ -1,0 +1,12 @@
+# 中国银行
+boc.cn
+
+# 平安集团
+pingan.com.cn
+sdb.com.cn
+jk.cn
+orangebank.com.cn
+
+# 同花顺
+10jqka.com.cn
+hexin.cn
