@@ -26,10 +26,12 @@ hexin.cn
 
 # 运营商
 189.cn
+10010.cn
 10086.cn
 ctadns.cn
 ctlcdn.cn
 chinatelecom.com.cn
+chinaunicom.cn
 chinaunicom.com.cn
 wo.cn
 wosms.cn
