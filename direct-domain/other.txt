@@ -1,4 +1,5 @@
 gov.cn
+edu.cn
 
 # Apple
 apple-dns.cn
