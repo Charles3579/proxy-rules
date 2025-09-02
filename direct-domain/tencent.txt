@@ -6,6 +6,7 @@ qpic.cn
 qlogo.cn
 
 tdnsdp1.cn
+tdnslive1.cn
 tdnsvod4.cn
 
 gtimg.cn
