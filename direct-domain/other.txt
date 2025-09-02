@@ -21,4 +21,5 @@ tdnsvod4.cn
 uc.cn
 walmartmobile.cn
 weibo.cn
+wo.cn
 wosms.cn
