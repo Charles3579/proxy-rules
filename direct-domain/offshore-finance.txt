@@ -73,6 +73,9 @@ za.group
 # East West Bank
 eastwestbank.com
 
+# Bank of Communications
+bankcomm.com
+
 # Chiyu
 chiyubank.com
 
