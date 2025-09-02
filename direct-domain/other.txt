@@ -22,6 +22,7 @@ weibo.cn
 sina.cn
 sina.com.cn
 sinaimg.cn
+sinajs.cn
 
 # 同花顺
 10jqka.com.cn
