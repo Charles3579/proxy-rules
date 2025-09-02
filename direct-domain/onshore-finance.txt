@@ -22,6 +22,9 @@ cmbc.com.cn
 # 汇丰
 hsbc.com.cn
 
+# 广发
+cgbchina.com.cn
+
 # 同花顺
 10jqka.com.cn
 hexin.cn
