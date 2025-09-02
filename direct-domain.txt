@@ -1,5 +1,7 @@
 3.cn
 airstarbank.com
+alihealth.com.cn
+alios.cn
 alipay.com.cn
 alipay.hk
 alipayhk.com
@@ -7,11 +9,14 @@ antbank.hk
 apple-dns.cn
 bankcomm.com
 bochk.com
+cainiao.com.cn
 ccb.com
+chinabank.com.cn
 chiyubank.com
 citibank.com.hk
 cmbwinglungbank.com
 cncbinternational.com
+cnzz.net
 ctadns.cn
 ctlcdn.cn
 cup.com.cn
@@ -23,6 +28,7 @@ dingtalk.cn
 dominos.com.cn
 dongguanbank.cn
 eastwestbank.com
+feizhu.cn
 fubon.com
 fubonbank.com.hk
 fusionbank.com
@@ -30,6 +36,7 @@ gov.cn
 gtimg.cn
 hangseng.com
 hc-cdn.cn
+hemashare.cn
 hkbea.com
 hsbc.ca
 hsbc.co.uk
@@ -42,11 +49,14 @@ hsbc.com.sg
 hsbc.com.tw
 icbc.com.cn
 icbcasia.com
+iconfont.cn
+jd.cn
 jiguang.cn
 jpush.cn
 kfc.com.cn
 livehwc3.cn
 livibank.com
+mashort.cn
 mcd.cn
 mcdonalds.com.cn
 mox.com
@@ -57,8 +67,12 @@ ocbc.com
 ocbc.com.hk
 paob.com.hk
 qq.com.cn
+rexpos.cn
 sc.com
 sinaimg.cn
+sm.cn
+tb.cn
+tbcdn.cn
 tdnsdp1.cn
 tdnsvod4.cn
 uc.cn
@@ -68,4 +82,5 @@ walmartmobile.cn
 weibo.cn
 welab.bank
 wosms.cn
+xinlingshou.cn
 za.group
