@@ -9,6 +9,7 @@ antbank.hk
 apple-dns.cn
 bankcomm.com
 bochk.com
+bytecdn.cn
 cainiao.com.cn
 ccb.com
 chinabank.com.cn
@@ -17,6 +18,7 @@ citibank.com.hk
 cmbwinglungbank.com
 cncbinternational.com
 cnzz.net
+coze.cn
 ctadns.cn
 ctlcdn.cn
 cup.com.cn
@@ -28,6 +30,8 @@ dingtalk.cn
 dominos.com.cn
 dongguanbank.cn
 eastwestbank.com
+feelgood.cn
+feishu.cn
 feizhu.cn
 fubon.com
 fubonbank.com.hk
@@ -75,12 +79,19 @@ tb.cn
 tbcdn.cn
 tdnsdp1.cn
 tdnsvod4.cn
+trae.cn
+trae.com.cn
 uc.cn
 uob.com.sg
 uobgroup.com
 walmartmobile.cn
 weibo.cn
 welab.bank
+wo.cn
 wosms.cn
+wtturl.cn
+xiguaapp.cn
+xiguashipin.cn
+xiguavideo.cn
 xinlingshou.cn
 za.group
