@@ -53,3 +53,4 @@ neixin.cn
 pipi.cn
 shuzilm.cn
 huorong.cn
+cnspeedtest.cn
