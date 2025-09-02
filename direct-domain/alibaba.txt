@@ -10,6 +10,7 @@ hemashare.cn
 iconfont.cn
 mashort.cn
 mybank.cn
+quark.cn
 rexpos.cn
 sm.cn
 tb.cn
