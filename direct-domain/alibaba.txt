@@ -15,6 +15,7 @@ mybank.cn
 quark.cn
 rexpos.cn
 sm.cn
+taobao.cn
 tb.cn
 tbcdn.cn
 uc.cn
