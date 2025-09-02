@@ -66,6 +66,7 @@ chinaunicom.cn
 chinaunicom.com.cn
 wo.cn
 wosms.cn
+wostore.cn
 
 # 其他
 360.cn
