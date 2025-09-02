@@ -24,10 +24,6 @@ sina.com.cn
 sinaimg.cn
 sinajs.cn
 
-# 同花顺
-10jqka.com.cn
-hexin.cn
-
 # TP-LINK
 tp-link.com.cn
 tplinkcloud.com.cn
