@@ -7,6 +7,8 @@ apple-dns.cn
 # 旅行
 12306.cn
 airchina.com.cn
+17u.cn
+40017.cn
 
 # 餐饮
 mcd.cn
