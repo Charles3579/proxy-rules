@@ -5,6 +5,7 @@ qq.com.cn
 qpic.cn
 qlogo.cn
 
+url.cn
 wxaurl.cn
 urlshare.cn
 
