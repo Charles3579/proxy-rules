@@ -1,7 +1,6 @@
 gov.cn
 
 3.cn
-alipay.com.cn
 apple-dns.cn
 cup.com.cn
 ctadns.cn
