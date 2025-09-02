@@ -76,6 +76,9 @@ wo.com.cn
 wosms.cn
 wostore.cn
 
+# SSL
+digicert.cn
+
 # 其他
 360.cn
 dcloud.net.cn
