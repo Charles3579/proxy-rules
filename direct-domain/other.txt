@@ -36,6 +36,7 @@ tplinkcloud.com.cn
 189.cn
 10010.cn
 10086.cn
+10099.com.cn
 ctadns.cn
 ctlcdn.cn
 chinatelecom.com.cn
@@ -54,3 +55,4 @@ livehwc3.cn
 neixin.cn
 pipi.cn
 shuzilm.cn
+huorong.cn
