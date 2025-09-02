@@ -25,6 +25,12 @@ hsbc.com.cn
 # 广发
 cgbchina.com.cn
 
+# 星展
+dbs.com.cn
+
+# 南商
+ncbchina.cn
+
 # 同花顺
 10jqka.com.cn
 hexin.cn
