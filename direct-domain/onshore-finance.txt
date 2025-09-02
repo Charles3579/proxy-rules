@@ -1,11 +1,26 @@
-# 中国银行
+# 中银
 boc.cn
 
-# 平安集团
+# 工银
+icbc.com.cn
+
+# 建银
+ccb.com.cn
+
+# 浦发
+spdb.com.cn
+
+# 平安
 pingan.com.cn
 sdb.com.cn
 jk.cn
 orangebank.com.cn
+
+# 民生
+cmbc.com.cn
+
+# 汇丰
+hsbc.com.cn
 
 # 同花顺
 10jqka.com.cn
