@@ -1,3 +1,5 @@
 mi.cn
 xiaomi.cn
 mioffice.cn
+mifile.cn
+miui.cn
