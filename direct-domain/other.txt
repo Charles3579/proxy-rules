@@ -57,3 +57,5 @@ cnspeedtest.cn
 chsi.com.cn
 jinye.cn
 sgcc.com.cn
+cls.cn
+hpplay.cn
