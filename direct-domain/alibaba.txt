@@ -13,4 +13,5 @@ rexpos.cn
 sm.cn
 tb.cn
 tbcdn.cn
+uc.cn
 xinlingshou.cn
