@@ -59,3 +59,5 @@ jinye.cn
 sgcc.com.cn
 cls.cn
 hpplay.cn
+threatbook.cn
+itdog.cn
