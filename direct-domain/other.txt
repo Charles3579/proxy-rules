@@ -37,6 +37,7 @@ tplinkcloud.com.cn
 10010.cn
 10086.cn
 10099.com.cn
+5gtv.com.cn
 ctadns.cn
 ctlcdn.cn
 chinatelecom.com.cn
