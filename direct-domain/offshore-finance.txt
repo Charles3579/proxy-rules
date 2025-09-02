@@ -3,7 +3,6 @@ hsbc.ca
 hsbc.co.uk
 hsbc.com
 hsbc.com.au
-hsbc.com.cn
 hsbc.com.hk
 hsbc.com.mo
 hsbc.com.sg
@@ -11,7 +10,6 @@ hsbc.com.tw
 hangseng.com
 
 # DBS
-dbs.com.cn
 dbs.com.hk
 dbs.com.sg
 
@@ -25,7 +23,6 @@ ocbc.com.hk
 
 # NCB
 ncb.com.hk
-ncbchina.cn
 
 # CCB
 ccb.com
@@ -34,7 +31,6 @@ ccb.com
 bochk.com
 
 # ICBC
-icbc.com.cn
 icbcasia.com
 
 # UOB
