@@ -2,6 +2,7 @@
 10jqka.com.cn
 189.cn
 3.cn
+360.cn
 airstarbank.com
 alihealth.com.cn
 alios.cn
@@ -31,6 +32,7 @@ damai.cn
 dbs.com.cn
 dbs.com.hk
 dbs.com.sg
+dcloud.net.cn
 dingtalk.cn
 dnspod.cn
 dominos.com.cn
@@ -71,6 +73,7 @@ mashort.cn
 mcd.cn
 mcdonalds.com.cn
 mox.com
+mybank.cn
 ncb.com.hk
 ncbchina.cn
 neixin.cn
@@ -78,6 +81,7 @@ ocbc.com
 ocbc.com.hk
 paob.com.hk
 pipi.cn
+qlogo.cn
 qpic.cn
 qq.cn
 qq.com.cn
@@ -86,6 +90,7 @@ sc.com
 shuzilm.cn
 sinaimg.cn
 sm.cn
+starbucks.com.cn
 tb.cn
 tbcdn.cn
 tdnsdp1.cn
