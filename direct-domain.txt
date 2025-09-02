@@ -22,9 +22,17 @@ alipay.com.cn
 alipay.hk
 alipayhk.com
 antbank.hk
+apple-cloudkit.com
 apple-dns.cn
+apple-livephotoskit.com
+apple.cn
+apple.com
+apple.com.cn
+apzones.com
 asics.com.cn
+asus.com.cn
 bankcomm.com
+bilibili.cn
 bkchina.cn
 boc.cn
 bochk.com
@@ -32,6 +40,7 @@ bytecdn.cn
 cainiao.com.cn
 ccb.com
 ccb.com.cn
+cdn-apple.com
 cdn-go.cn
 cgbchina.com.cn
 chinabank.com.cn
@@ -50,6 +59,7 @@ cnzz.net
 converse.com.cn
 costco.com.cn
 coze.cn
+csdnimg.cn
 ctadns.cn
 ctlcdn.cn
 cup.com.cn
@@ -59,6 +69,7 @@ dbs.com.cn
 dbs.com.hk
 dbs.com.sg
 dcloud.net.cn
+digicert.cn
 dingtalk.cn
 dnspod.cn
 dominos.com.cn
@@ -94,6 +105,10 @@ hsbc.com.tw
 huorong.cn
 icbc.com.cn
 icbcasia.com
+icloud-content.com
+icloud-content.com.cn
+icloud.com
+icloud.com.cn
 iconfont.cn
 ikea.cn
 ingka-system.cn
@@ -114,6 +129,7 @@ mashort.cn
 mcd.cn
 mcdonalds.com.cn
 mi.cn
+microsoft.com
 mifile.cn
 mioffice.cn
 miui.cn
@@ -140,6 +156,8 @@ qq.cn
 qq.com.cn
 quark.cn
 rexpos.cn
+samsclub.cn
+sangfor.com.cn
 sc.com
 sdb.com.cn
 sgcc.com.cn
@@ -167,10 +185,12 @@ trae.com.cn
 uc.cn
 ucloud.cn
 uczzd.cn
+ugcimg.cn
 underarmour.cn
 uniqlo.cn
 uob.com.sg
 uobgroup.com
+url.cn
 urlshare.cn
 vans.com.cn
 walmart.cn
@@ -178,6 +198,7 @@ walmartmobile.cn
 wechatpay.cn
 weibo.cn
 welab.bank
+windowsupdate.com
 wo.cn
 wo.com.cn
 wosms.cn
