@@ -4,6 +4,10 @@ edu.cn
 # Apple
 apple-dns.cn
 
+# 旅行
+12306.cn
+airchina.com.cn
+
 # 餐饮
 mcd.cn
 mcdonalds.com.cn
