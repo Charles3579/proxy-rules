@@ -60,3 +60,4 @@ threatbook.cn
 itdog.cn
 kdocs.cn
 52pojie.cn
+nga.cn
