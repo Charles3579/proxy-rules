@@ -31,6 +31,7 @@ chinaunicom.com.cn
 chiyubank.com
 chsi.com.cn
 citibank.com.hk
+cls.cn
 cmbc.com.cn
 cmbwinglungbank.com
 cncbinternational.com
@@ -64,6 +65,7 @@ hc-cdn.cn
 hemashare.cn
 hexin.cn
 hkbea.com
+hpplay.cn
 hsbc.ca
 hsbc.co.uk
 hsbc.com
@@ -77,6 +79,7 @@ huorong.cn
 icbc.com.cn
 icbcasia.com
 iconfont.cn
+itdog.cn
 jd.cn
 jiguang.cn
 jinye.cn
@@ -88,6 +91,8 @@ livibank.com
 mashort.cn
 mcd.cn
 mcdonalds.com.cn
+mi.cn
+mioffice.cn
 mox.com
 mybank.cn
 ncb.com.hk
@@ -119,7 +124,9 @@ starbucks.com.cn
 tb.cn
 tbcdn.cn
 tdnsdp1.cn
+tdnslive1.cn
 tdnsvod4.cn
+threatbook.cn
 tp-link.com.cn
 tplinkcloud.com.cn
 trae.cn
@@ -129,11 +136,13 @@ uczzd.cn
 uob.com.sg
 uobgroup.com
 walmartmobile.cn
+wechatpay.cn
 weibo.cn
 welab.bank
 wo.cn
 wosms.cn
 wtturl.cn
+xiaomi.cn
 xiguaapp.cn
 xiguashipin.cn
 xiguavideo.cn
