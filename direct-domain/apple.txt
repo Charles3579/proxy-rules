@@ -1,7 +1,13 @@
 apple.cn
 apple.com
 apple.com.cn
+
 icloud.com
 icloud.com.cn
 icloud-content.com
 icloud-content.com.cn
+
+apple-cloudkit.com
+apple-livephotoskit.com
+apzones.com
+cdn-apple.com
