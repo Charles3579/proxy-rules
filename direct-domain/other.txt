@@ -22,6 +22,7 @@ bkchina.cn
 
 # 超市
 costco.com.cn
+samsclub.cn
 walmart.cn
 walmartmobile.cn
 
