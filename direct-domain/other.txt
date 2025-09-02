@@ -35,6 +35,7 @@ wo.cn
 wosms.cn
 
 # 其他
+dcloud.net.cn
 hc-cdn.cn
 jiguang.cn
 jpush.cn
