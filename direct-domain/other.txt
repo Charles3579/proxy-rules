@@ -11,8 +11,25 @@ dominos.com.cn
 kfc.com.cn
 starbucks.com.cn
 
-# 沃尔玛
+# 超市
+costco.com.cn
+walmart.cn
 walmartmobile.cn
+
+# 生活
+uniqlo.cn
+muji.com.cn
+ikea.cn
+adidas.com.cn
+asics.com.cn
+newbalance.com.cn
+nike.com.cn
+converse.com.cn
+fila.com.cn
+vans.com.cn
+puma.com.cn
+lululemon.cn
+underarmour.cn
 
 # 新浪
 weibo.cn
