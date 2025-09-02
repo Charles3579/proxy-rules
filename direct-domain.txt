@@ -2,13 +2,17 @@
 10086.cn
 10099.com.cn
 10jqka.com.cn
+12306.cn
+17u.cn
 189.cn
 3.cn
 360.cn
 360buy.cn
+40017.cn
 52pojie.cn
 5gtv.com.cn
 adidas.com.cn
+airchina.com.cn
 airstarbank.com
 alibaba.cn
 alibaba.com.cn
@@ -72,6 +76,7 @@ fusionbank.com
 gov.cn
 gtimg.cn
 hangseng.com
+happyelements.cn
 hc-cdn.cn
 hemashare.cn
 hexin.cn
@@ -151,6 +156,8 @@ tb.cn
 tbcdn.cn
 tdnsdp1.cn
 tdnslive1.cn
+tdnsstic1.cn
+tdnsvod1.cn
 tdnsvod4.cn
 threatbook.cn
 tp-link.com.cn
@@ -158,6 +165,7 @@ tplinkcloud.com.cn
 trae.cn
 trae.com.cn
 uc.cn
+ucloud.cn
 uczzd.cn
 underarmour.cn
 uniqlo.cn
@@ -171,7 +179,9 @@ wechatpay.cn
 weibo.cn
 welab.bank
 wo.cn
+wo.com.cn
 wosms.cn
+wostore.cn
 wtturl.cn
 wxaurl.cn
 xiaomi.cn
