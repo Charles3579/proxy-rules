@@ -20,6 +20,7 @@ walmart.cn
 walmartmobile.cn
 
 # 生活
+fastretailing.cn
 uniqlo.cn
 muji.com.cn
 ikea.cn
