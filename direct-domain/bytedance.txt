@@ -8,3 +8,4 @@ feishu.cn
 xiguavideo.cn
 xiguaapp.cn
 xiguashipin.cn
+juejin.cn
