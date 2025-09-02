@@ -1,5 +1,6 @@
 gov.cn
 
+10jqka.com.cn
 apple-dns.cn
 cup.com.cn
 ctadns.cn
