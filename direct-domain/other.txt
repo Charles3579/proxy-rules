@@ -54,3 +54,5 @@ pipi.cn
 shuzilm.cn
 huorong.cn
 cnspeedtest.cn
+chsi.com.cn
+jinye.cn
