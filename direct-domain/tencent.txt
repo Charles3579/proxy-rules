@@ -6,3 +6,5 @@ qpic.cn
 
 tdnsdp1.cn
 tdnsvod4.cn
+
+gtimg.cn
