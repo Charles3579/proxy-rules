@@ -7,6 +7,8 @@ icloud.com.cn
 icloud-content.com
 icloud-content.com.cn
 
+mzstatic.com
+
 apple-cloudkit.com
 apple-livephotoskit.com
 apzones.com
