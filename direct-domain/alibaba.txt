@@ -1,4 +1,6 @@
 alios.cn
+alibaba.cn
+alibaba.com.cn
 alipay.com.cn
 alihealth.com.cn
 cainiao.com.cn
