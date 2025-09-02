@@ -1,3 +1,4 @@
+10010.cn
 10086.cn
 10jqka.com.cn
 189.cn
@@ -18,6 +19,7 @@ cainiao.com.cn
 ccb.com
 chinabank.com.cn
 chinatelecom.com.cn
+chinaunicom.cn
 chinaunicom.com.cn
 chiyubank.com
 citibank.com.hk
@@ -38,6 +40,7 @@ dnspod.cn
 dominos.com.cn
 dongguanbank.cn
 eastwestbank.com
+edu.cn
 feelgood.cn
 feishu.cn
 feizhu.cn
@@ -88,13 +91,18 @@ qq.com.cn
 rexpos.cn
 sc.com
 shuzilm.cn
+sina.cn
+sina.com.cn
 sinaimg.cn
+sinajs.cn
 sm.cn
 starbucks.com.cn
 tb.cn
 tbcdn.cn
 tdnsdp1.cn
 tdnsvod4.cn
+tp-link.com.cn
+tplinkcloud.com.cn
 trae.cn
 trae.com.cn
 uc.cn
