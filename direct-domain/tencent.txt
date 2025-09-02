@@ -11,6 +11,8 @@ urlshare.cn
 cdn-go.cn
 tdnsdp1.cn
 tdnslive1.cn
+tdnsstic1.cn
+tdnsvod1.cn
 tdnsvod4.cn
 
 gtimg.cn
