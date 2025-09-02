@@ -4,9 +4,6 @@ edu.cn
 # Apple
 apple-dns.cn
 
-# 银联
-cup.com.cn
-
 # 餐饮
 mcd.cn
 mcdonalds.com.cn
