@@ -9,3 +9,5 @@ tdnsdp1.cn
 tdnsvod4.cn
 
 gtimg.cn
+
+wechatpay.cn
