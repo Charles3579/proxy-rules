@@ -19,11 +19,16 @@ walmartmobile.cn
 
 # 新浪
 weibo.cn
+sina.com.cn
 sinaimg.cn
 
 # 同花顺
 10jqka.com.cn
 hexin.cn
+
+# TP-LINK
+tp-link.com.cn
+tplinkcloud.com.cn
 
 # 运营商
 189.cn
