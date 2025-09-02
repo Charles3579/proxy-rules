@@ -1,3 +1,6 @@
+10086.cn
+10jqka.com.cn
+189.cn
 3.cn
 airstarbank.com
 alihealth.com.cn
@@ -13,6 +16,8 @@ bytecdn.cn
 cainiao.com.cn
 ccb.com
 chinabank.com.cn
+chinatelecom.com.cn
+chinaunicom.com.cn
 chiyubank.com
 citibank.com.hk
 cmbwinglungbank.com
@@ -27,6 +32,7 @@ dbs.com.cn
 dbs.com.hk
 dbs.com.sg
 dingtalk.cn
+dnspod.cn
 dominos.com.cn
 dongguanbank.cn
 eastwestbank.com
@@ -41,6 +47,7 @@ gtimg.cn
 hangseng.com
 hc-cdn.cn
 hemashare.cn
+hexin.cn
 hkbea.com
 hsbc.ca
 hsbc.co.uk
@@ -70,9 +77,13 @@ neixin.cn
 ocbc.com
 ocbc.com.hk
 paob.com.hk
+pipi.cn
+qpic.cn
+qq.cn
 qq.com.cn
 rexpos.cn
 sc.com
+shuzilm.cn
 sinaimg.cn
 sm.cn
 tb.cn
