@@ -56,3 +56,4 @@ huorong.cn
 cnspeedtest.cn
 chsi.com.cn
 jinye.cn
+sgcc.com.cn
