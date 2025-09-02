@@ -11,6 +11,7 @@ mcd.cn
 mcdonalds.com.cn
 dominos.com.cn
 kfc.com.cn
+starbucks.com.cn
 
 # 沃尔玛
 walmartmobile.cn
