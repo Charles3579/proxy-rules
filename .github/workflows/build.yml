@@ -95,3 +95,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "Update domain lists from ${GITHUB_SHA::7}"
           git push origin release
+
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 0
+          keep_minimum_runs: 2
