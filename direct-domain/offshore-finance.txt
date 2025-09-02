@@ -1,20 +1,4 @@
-airstarbank.com
-alipay.hk
-alipayhk.com
-antbank.hk
-bochk.com
-ccb.com
-citibank.com.hk
-cmbwinglungbank.com
-cncbinternational.com
-dbs.com.cn
-dbs.com.hk
-dbs.com.sg
-eastwestbank.com
-fubonbank.com.hk
-fusionbank.com
-hangseng.com
-hkbea.com
+# HSBC
 hsbc.ca
 hsbc.co.uk
 hsbc.com
@@ -24,15 +8,39 @@ hsbc.com.hk
 hsbc.com.mo
 hsbc.com.sg
 hsbc.com.tw
+
+# DBS
+dbs.com.cn
+dbs.com.hk
+dbs.com.sg
+
+# SC
+sc.com
 mox.com
+
+# OCBC
+ocbc.com
+ocbc.com.hk
+
+airstarbank.com
+alipay.hk
+alipayhk.com
+antbank.hk
+bochk.com
+ccb.com
+citibank.com.hk
+cmbwinglungbank.com
+cncbinternational.com
+eastwestbank.com
+fubonbank.com.hk
+fusionbank.com
+hangseng.com
+hkbea.com
 ncb.com.hk
 ncbchina.cn
 icbcasia.com
 livibank.com
-ocbc.com
-ocbc.com.hk
 paob.com.hk
-sc.com
 uob.com.sg
 welab.bank
 za.group
