@@ -9,7 +9,10 @@ mcd.cn
 mcdonalds.com.cn
 dominos.com.cn
 kfc.com.cn
+pizzahut.com.cn
 starbucks.com.cn
+dairyqueen.com.cn
+bkchina.cn
 
 # 超市
 costco.com.cn
