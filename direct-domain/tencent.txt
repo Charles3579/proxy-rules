@@ -3,6 +3,7 @@ dnspod.cn
 qq.cn
 qq.com.cn
 qpic.cn
+qlogo.cn
 
 tdnsdp1.cn
 tdnsvod4.cn
