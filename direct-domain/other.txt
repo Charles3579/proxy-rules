@@ -1,25 +1,43 @@
 gov.cn
 
-10jqka.com.cn
+# Apple
 apple-dns.cn
+
+# 银联
 cup.com.cn
+
+# 餐饮
+mcd.cn
+mcdonalds.com.cn
+dominos.com.cn
+kfc.com.cn
+
+# 沃尔玛
+walmartmobile.cn
+
+# 新浪
+weibo.cn
+sinaimg.cn
+
+# 同花顺
+10jqka.com.cn
+hexin.cn
+
+# 运营商
+189.cn
+10086.cn
 ctadns.cn
 ctlcdn.cn
-dominos.com.cn
-gtimg.cn
+chinatelecom.com.cn
+chinaunicom.com.cn
+wo.cn
+wosms.cn
+
+# 其他
 hc-cdn.cn
 jiguang.cn
 jpush.cn
-kfc.com.cn
 livehwc3.cn
-mcd.cn
-mcdonalds.com.cn
 neixin.cn
 pipi.cn
 shuzilm.cn
-sinaimg.cn
-uc.cn
-walmartmobile.cn
-weibo.cn
-wo.cn
-wosms.cn
