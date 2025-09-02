@@ -16,4 +16,5 @@ sm.cn
 tb.cn
 tbcdn.cn
 uc.cn
+uczzd.cn
 xinlingshou.cn
