@@ -136,6 +136,7 @@ miui.cn
 mox.com
 muji.com.cn
 mybank.cn
+mzstatic.com
 ncb.com.hk
 ncbchina.cn
 neixin.cn
