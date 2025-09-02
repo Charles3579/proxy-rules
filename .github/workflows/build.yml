@@ -1,0 +1,97 @@
+name: Build domain lists to release
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 22 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-release-branch
+  cancel-in-progress: true
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate merged lists
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p build
+
+          merge_dir() {
+            local dir="$1"
+            local out="build/${dir}.txt"
+
+            if [ -d "$dir" ]; then
+              # 递归读取目录中所有 .txt，去注释/空行/空白，统一小写，排序并去重
+              # 规则：
+              #  - 移除行内与整行注释（# 之后的内容）
+              #  - 去掉 \r（兼容 CRLF）
+              #  - 修剪首尾空白
+              #  - 去掉空行
+              #  - 统一为小写（域名不区分大小写）
+              #  - 字母序排序并去重
+              find "$dir" -type f -name '*.txt' -print0 \
+                | xargs -0 -r cat -- \
+                | sed 's/#.*$//' \
+                | tr -d '\r' \
+                | sed 's/^[ \t]*//;s/[ \t]*$//' \
+                | awk 'NF{ print tolower($0) }' \
+                | sort -u \
+                > "$out"
+            else
+              # 目录不存在则生成空文件，避免后续步骤报错
+              : > "$out"
+            fi
+          }
+
+          merge_dir direct-domain
+          merge_dir proxy-domain
+
+          echo "Generated files:"
+          wc -l build/*.txt || true
+          echo "----"
+          head -n 10 build/direct-domain.txt || true
+          echo "----"
+          head -n 10 build/proxy-domain.txt || true
+
+      - name: Switch to release branch (create if missing)
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # 检查远端是否已有 release 分支
+          if git ls-remote --heads origin release | grep -q 'refs/heads/release'; then
+            git checkout -B release origin/release
+          else
+            # 创建孤儿分支（无历史）
+            git checkout --orphan release
+            # 清空索引中的文件（工作区保留）
+            git rm -rf . >/dev/null 2>&1 || true
+          fi
+
+          # 将产物放到仓库根目录
+          cp -f build/direct-domain.txt ./direct-domain.txt
+          cp -f build/proxy-domain.txt ./proxy-domain.txt
+
+          git add direct-domain.txt proxy-domain.txt
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update domain lists from ${GITHUB_SHA::7}"
+          git push origin release
