@@ -1,6 +1,5 @@
 # 银联
 cup.com.cn
-unionpay.com
 
 # 中银
 boc.cn
