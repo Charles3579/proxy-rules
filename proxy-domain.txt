@@ -1,1 +1,17 @@
+apple-relay.apple.com
+bing.com
+c.mi.com
+copilot.microsoft.com
+cupronickel.goog
+designer.microsoft.com
+edge.microsoft.com
+engage.cloudflareclient.com
+github.com
+google.com.hk
+google.com.tw
 googleapis.cn
+googleapis.com
+gstatic.com
+msn.com
+smartscreen.microsoft.com
+xn--ngstr-lra8j.com
