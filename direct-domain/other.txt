@@ -1,6 +1,13 @@
 gov.cn
 edu.cn
 
+# DNS
+dns.alidns.com
+doh.pub
+dot.pub
+doh.360.cn
+dot.360.cn
+
 # Apple
 apple-dns.cn
 
