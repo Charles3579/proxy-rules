@@ -37,3 +37,6 @@ ncbchina.cn
 # 同花顺
 10jqka.com.cn
 hexin.cn
+
+# 天天基金
+1234567.com.cn
