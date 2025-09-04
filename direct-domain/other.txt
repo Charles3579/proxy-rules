@@ -8,9 +8,6 @@ dot.pub
 doh.360.cn
 dot.360.cn
 
-# Apple
-apple-dns.cn
-
 # 旅行
 12306.cn
 airchina.com.cn
