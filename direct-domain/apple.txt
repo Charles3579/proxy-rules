@@ -19,3 +19,5 @@ apple-dns.cn
 apple-dns.com
 apple-dns.com.cn
 apple-dns.net
+
+configuration-lb.ls-apple.com.akadns.net
