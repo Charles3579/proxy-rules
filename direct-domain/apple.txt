@@ -11,6 +11,7 @@ mzstatic.com
 
 apple-cloudkit.com
 apple-livephotoskit.com
+apple-mapkit.com
 apzones.com
 cdn-apple.com
 
