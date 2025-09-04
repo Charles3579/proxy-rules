@@ -1,4 +1,3 @@
 engage.cloudflareclient.com
 github.com
 c.mi.com
-apple-relay.apple.com
