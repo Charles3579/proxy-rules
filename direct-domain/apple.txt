@@ -13,3 +13,8 @@ apple-cloudkit.com
 apple-livephotoskit.com
 apzones.com
 cdn-apple.com
+
+apple-dns.cn
+apple-dns.com
+apple-dns.com.cn
+apple-dns.net
