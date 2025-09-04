@@ -25,6 +25,9 @@ alipayhk.com
 antbank.hk
 apple-cloudkit.com
 apple-dns.cn
+apple-dns.com
+apple-dns.com.cn
+apple-dns.net
 apple-livephotoskit.com
 apple.cn
 apple.com
