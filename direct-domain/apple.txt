@@ -21,3 +21,5 @@ apple-dns.com.cn
 apple-dns.net
 
 configuration-lb.ls-apple.com.akadns.net
+courier-push-apple.com.akadns.net
+courier-sandbox-push-apple.com.akadns.net
