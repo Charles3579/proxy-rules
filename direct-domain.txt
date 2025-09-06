@@ -68,6 +68,8 @@ cnzz.net
 configuration-lb.ls-apple.com.akadns.net
 converse.com.cn
 costco.com.cn
+courier-push-apple.com.akadns.net
+courier-sandbox-push-apple.com.akadns.net
 coze.cn
 csdnimg.cn
 ctadns.cn
