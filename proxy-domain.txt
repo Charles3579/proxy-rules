@@ -90,6 +90,7 @@ renet.tw
 rfchost.com
 saltyfish.io
 smartscreen.microsoft.com
+sntp.uk
 spartanhost.org
 stentvessel.shop
 taphip.com
