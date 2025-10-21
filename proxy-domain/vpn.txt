@@ -16,3 +16,4 @@ linkcube.org
 tkv.one
 dlercloud.com
 mesl.cloud
+sntp.uk
