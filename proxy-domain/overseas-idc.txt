@@ -57,6 +57,7 @@ apernet.io
 greencloudvps.com
 hostdzire.com
 ovh.com
+ovhcloud.com
 netcup.com
 isif.net
 taphip.com
