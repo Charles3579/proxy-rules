@@ -48,6 +48,8 @@ duocloud.net
 niihost.com
 bytevirt.com
 nnc.sh
+vps.town
 misaka.io
 apernet.io
 greencloudvps.com
+hostdzire.com
