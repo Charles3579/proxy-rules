@@ -3,7 +3,6 @@ hsbc.ca
 hsbc.co.uk
 hsbc.com
 hsbc.com.au
-hsbc.com.cn
 hsbc.com.hk
 hsbc.com.mo
 hsbc.com.sg
