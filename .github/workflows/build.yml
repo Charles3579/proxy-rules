@@ -96,3 +96,7 @@ jobs:
           git commit -m "Update domain lists from ${GITHUB_SHA::7}"
           git push origin release
 
+      - name: Purge jsdelivr CDN
+        run: |
+          curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/direct-domain.txt"
+          curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/proxy-domain.txt"
