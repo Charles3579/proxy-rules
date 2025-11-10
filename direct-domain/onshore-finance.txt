@@ -37,6 +37,9 @@ dbs.com.cn
 # 南商
 ncbchina.cn
 
+# 宁波银行
+nbcb.com.cn
+
 # 同花顺
 10jqka.com.cn
 hexin.cn
