@@ -116,6 +116,7 @@ chery.cn
 jac.com.cn
 leapmotor.cn
 seres.cn
+bydauto.com.cn
 
 # SSL
 digicert.cn
@@ -172,3 +173,7 @@ kuaishou.cn
 dior.cn
 deppon.com.cn
 blizzard.cn
+xunfei.cn
+weather.com.cn
+huawei.cn
+huawei.com.cn
