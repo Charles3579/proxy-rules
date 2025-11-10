@@ -2,9 +2,6 @@
 gov.cn
 edu.cn
 
-# 省份
-
-
 # DNS
 dns.alidns.com
 doh.pub
