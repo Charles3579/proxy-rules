@@ -13,6 +13,8 @@
 52pojie.cn
 5gtv.com.cn
 adidas.com.cn
+aia.com.cn
+aig.com.cn
 airchina.com.cn
 airstarbank.com
 alibaba.cn
@@ -22,6 +24,8 @@ alios.cn
 alipay.com.cn
 alipay.hk
 alipayhk.com
+allianz.com.cn
+allianzholding.cn
 antbank.hk
 apple-cloudkit.com
 apple-dns.cn
@@ -53,12 +57,15 @@ cdn-ws.content.steamchina.com
 cdn.mileweb.cs.steampowered.com.8686c.com
 cgbchina.com.cn
 chinabank.com.cn
+chinalife.com.cn
 chinatelecom.com.cn
 chinaunicom.cn
 chinaunicom.com.cn
 chiyubank.com
 chsi.com.cn
+cisf.cn
 citibank.com.hk
+clpc.com.cn
 cls.cn
 cmbc.com.cn
 cmbwinglungbank.com
@@ -71,6 +78,7 @@ costco.com.cn
 courier-push-apple.com.akadns.net
 courier-sandbox-push-apple.com.akadns.net
 coze.cn
+cpic.com.cn
 csdnimg.cn
 ctadns.cn
 ctlcdn.cn
@@ -122,7 +130,9 @@ hsbc.com.hk
 hsbc.com.mo
 hsbc.com.sg
 hsbc.com.tw
+hsbcinsurance.com.cn
 huorong.cn
+iachina.cn
 icbc.com.cn
 icbcasia.com
 icloud-content.com
@@ -149,6 +159,7 @@ lululemon.cn
 mashort.cn
 mcd.cn
 mcdonalds.com.cn
+metlife.com.cn
 mi.cn
 microsoft.com
 mifile.cn
@@ -203,6 +214,7 @@ tdnslive1.cn
 tdnsstic1.cn
 tdnsvod1.cn
 tdnsvod4.cn
+tencent.cn
 threatbook.cn
 tp-link.com.cn
 tplinkcloud.com.cn
@@ -237,3 +249,4 @@ xiguashipin.cn
 xiguavideo.cn
 xinlingshou.cn
 za.group
+zurich.com.cn
