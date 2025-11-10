@@ -16,6 +16,9 @@ spdb.com.cn
 # 中信
 citicbank.cn
 
+# 交通
+bankcomm.cn
+
 # 平安
 pingan.com.cn
 sdb.com.cn
