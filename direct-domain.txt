@@ -12,6 +12,7 @@
 40017.cn
 52pojie.cn
 5gtv.com.cn
+acfun.cn
 adidas.com.cn
 ai.cn
 aia.com.cn
@@ -50,6 +51,7 @@ boc.cn
 bochk.com
 bytecdn.cn
 cainiao.com.cn
+cas.cn
 ccb.com
 ccb.com.cn
 cdn-ali.content.steamchina.com
@@ -74,14 +76,17 @@ chiyubank.com
 chsi.com.cn
 cisf.cn
 citibank.com.hk
+citicbank.cn
 clpc.com.cn
 cls.cn
+cma.cn
 cmbc.com.cn
 cmbwinglungbank.com
 cncbinternational.com
 cnspeedtest.cn
 cntv.cn
 cnzz.net
+conac.cn
 configuration-lb.ls-apple.com.akadns.net
 converse.com.cn
 costco.com.cn
@@ -101,8 +106,10 @@ dbs.com.hk
 dbs.com.sg
 dcloud.net.cn
 dfmc.com.cn
+didi.cn
 digicert.cn
 dingtalk.cn
+diskgenius.cn
 dl.steam.clngaa.com
 dl.steam.ksyna.com
 dns.alidns.com
@@ -128,6 +135,7 @@ fusionbank.com
 gmw.cn
 gov.cn
 gtimg.cn
+guancha.cn
 hangseng.com
 happyelements.cn
 haval.com.cn
@@ -146,7 +154,9 @@ hsbc.com.mo
 hsbc.com.sg
 hsbc.com.tw
 hsbcinsurance.com.cn
+huihui.cn
 huorong.cn
+i4.cn
 iachina.cn
 icbc.com.cn
 icbcasia.com
@@ -173,12 +183,15 @@ leapmotor.cn
 live.com
 livehwc3.cn
 livibank.com
+lottedfs.cn
+lulian.cn
 lululemon.cn
 mashort.cn
 mcd.cn
 mcdonalds.com.cn
 metaso.cn
 metlife.com.cn
+mhyurl.cn
 mi.cn
 microsoft.com
 mifile.cn
@@ -205,6 +218,7 @@ pingan.com.cn
 pipi.cn
 pizzahut.com.cn
 puma.com.cn
+qiyou.cn
 qlogo.cn
 qpic.cn
 qq.cn
@@ -240,6 +254,7 @@ tdnsvod1.cn
 tdnsvod4.cn
 tencent.cn
 tesla.cn
+thepaper.cn
 threatbook.cn
 tp-link.com.cn
 tplinkcloud.com.cn
@@ -257,6 +272,7 @@ uobgroup.com
 url.cn
 urlshare.cn
 vans.com.cn
+vivo.com.cn
 voyah.com.cn
 walmart.cn
 walmartmobile.cn
