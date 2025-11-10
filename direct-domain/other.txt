@@ -14,6 +14,7 @@ dot.360.cn
 airchina.com.cn
 17u.cn
 40017.cn
+didi.cn
 
 # 餐饮
 mcd.cn
@@ -158,3 +159,13 @@ metaso.cn
 unity.cn
 aiqicha.cn
 wjx.cn
+cma.cn
+lulian.cn
+acfun.cn
+diskgenius.cn
+lottedfs.cn
+conac.cn
+guancha.cn
+qiyou.cn
+i4.cn
+mhyurl.cn
