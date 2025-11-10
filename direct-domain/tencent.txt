@@ -22,3 +22,5 @@ gtimg.cn
 ugcimg.cn
 
 wechatpay.cn
+
+wegame.com.cn
