@@ -1,5 +1,9 @@
+# 特殊
 gov.cn
 edu.cn
+
+# 省份
+
 
 # DNS
 dns.alidns.com
@@ -79,6 +83,14 @@ wo.cn
 wo.com.cn
 wosms.cn
 wostore.cn
+
+# 保险
+iachina.cn
+aia.com.cn
+aig.com.cn
+allianz.com.cn
+chinalife.com.cn
+cpic.com.cn
 
 # SSL
 digicert.cn
