@@ -1,5 +1,10 @@
+# 设备地区检测
+gspe1-ssl.ls.apple.com
+# Apple 智能
 apple-relay.apple.com
-
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
+# iCloud 专用代理
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
