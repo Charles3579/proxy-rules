@@ -170,3 +170,5 @@ vivo.com.cn
 bilibili.cn
 kuaishou.cn
 dior.cn
+deppon.com.cn
+blizzard.cn
