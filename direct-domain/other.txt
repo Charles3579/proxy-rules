@@ -56,16 +56,6 @@ sina.com.cn
 sinaimg.cn
 sinajs.cn
 
-# TP-LINK
-tp-link.com.cn
-tplinkcloud.com.cn
-
-# 华硕
-asus.com.cn
-
-# Bilibili
-bilibili.cn
-
 # 媒体
 news.cn
 people.com.cn
@@ -80,6 +70,7 @@ chinanews.com.cn
 china.com.cn
 youth.cn
 cri.com.cn
+thepaper.cn
 
 # 运营商
 189.cn
@@ -169,3 +160,10 @@ guancha.cn
 qiyou.cn
 i4.cn
 mhyurl.cn
+huihui.cn
+cas.cn
+tp-link.com.cn
+tplinkcloud.com.cn
+asus.com.cn
+vivo.com.cn
+bilibili.cn
