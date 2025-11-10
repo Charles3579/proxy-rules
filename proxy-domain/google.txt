@@ -1,7 +1,17 @@
 googleapis.cn
 googleapis.com
-google.com.tw
-google.com.hk
 gstatic.com
 xn--ngstr-lra8j.com
 cupronickel.goog
+
+# Google 国别域名
+google.ca
+google.com.tw
+google.com.hk
+google.com.au
+google.com.sg
+google.com.my
+google.co.kr
+google.co.jp
+google.co.th
+google.co.id
