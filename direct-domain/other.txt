@@ -85,12 +85,18 @@ wosms.cn
 wostore.cn
 
 # 保险
-iachina.cn
 aia.com.cn
 aig.com.cn
 allianz.com.cn
+allianzholding.cn
 chinalife.com.cn
+cisf.cn
+clpc.com.cn
 cpic.com.cn
+hsbcinsurance.com.cn
+iachina.cn
+metlife.com.cn
+zurich.com.cn
 
 # SSL
 digicert.cn
