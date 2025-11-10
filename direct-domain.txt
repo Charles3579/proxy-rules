@@ -12,6 +12,7 @@
 40017.cn
 52pojie.cn
 5gtv.com.cn
+ac.cn
 acfun.cn
 adidas.com.cn
 ai.cn
@@ -44,11 +45,14 @@ apzones.com
 asics.com.cn
 asus.com.cn
 autohome.com.cn
+bankcomm.cn
 bankcomm.com
 bilibili.cn
 bkchina.cn
+blizzard.cn
 boc.cn
 bochk.com
+bydauto.com.cn
 bytecdn.cn
 cainiao.com.cn
 cas.cn
@@ -105,10 +109,12 @@ dbs.com.cn
 dbs.com.hk
 dbs.com.sg
 dcloud.net.cn
+deppon.com.cn
 dfmc.com.cn
 didi.cn
 digicert.cn
 dingtalk.cn
+dior.cn
 diskgenius.cn
 dl.steam.clngaa.com
 dl.steam.ksyna.com
@@ -154,6 +160,8 @@ hsbc.com.mo
 hsbc.com.sg
 hsbc.com.tw
 hsbcinsurance.com.cn
+huawei.cn
+huawei.com.cn
 huihui.cn
 huorong.cn
 i4.cn
@@ -179,6 +187,7 @@ jpush.cn
 juejin.cn
 kdocs.cn
 kfc.com.cn
+kuaishou.cn
 leapmotor.cn
 live.com
 livehwc3.cn
@@ -201,6 +210,7 @@ mox.com
 muji.com.cn
 mybank.cn
 mzstatic.com
+nbcb.com.cn
 ncb.com.hk
 ncbchina.cn
 neixin.cn
@@ -276,7 +286,9 @@ vivo.com.cn
 voyah.com.cn
 walmart.cn
 walmartmobile.cn
+weather.com.cn
 wechatpay.cn
+wegame.com.cn
 weibo.cn
 welab.bank
 windowsupdate.com
@@ -292,6 +304,7 @@ xiguaapp.cn
 xiguashipin.cn
 xiguavideo.cn
 xinlingshou.cn
+xunfei.cn
 yangshipin.cn
 youth.cn
 za.group
