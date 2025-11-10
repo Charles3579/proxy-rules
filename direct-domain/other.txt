@@ -1,6 +1,7 @@
 # 特殊
 gov.cn
 edu.cn
+ac.cn
 
 # DNS
 dns.alidns.com
