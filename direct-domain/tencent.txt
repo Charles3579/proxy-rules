@@ -16,6 +16,8 @@ tdnsstic1.cn
 tdnsvod1.cn
 tdnsvod4.cn
 
+tencent.cn
+
 gtimg.cn
 ugcimg.cn
 
