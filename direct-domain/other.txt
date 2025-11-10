@@ -168,3 +168,5 @@ tplinkcloud.com.cn
 asus.com.cn
 vivo.com.cn
 bilibili.cn
+kuaishou.cn
+dior.cn
