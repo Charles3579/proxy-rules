@@ -13,6 +13,9 @@ ccb.com.cn
 # 浦发
 spdb.com.cn
 
+# 中信
+citicbank.cn
+
 # 平安
 pingan.com.cn
 sdb.com.cn
