@@ -65,6 +65,21 @@ asus.com.cn
 # Bilibili
 bilibili.cn
 
+# 媒体
+news.cn
+people.com.cn
+yangshipin.cn
+cntv.cn
+gmw.cn
+qstheory.cn
+farmer.com.cn
+ce.cn
+chinadaily.com.cn
+chinanews.com.cn
+china.com.cn
+youth.cn
+cri.com.cn
+
 # 运营商
 189.cn
 10010.cn
@@ -95,6 +110,20 @@ iachina.cn
 metlife.com.cn
 zurich.com.cn
 
+# 车企
+tesla.cn
+nio.cn
+voyah.com.cn
+changan.com.cn
+dfmc.com.cn
+autohome.com.cn
+haval.com.cn
+jetour.com.cn
+chery.cn
+jac.com.cn
+leapmotor.cn
+seres.cn
+
 # SSL
 digicert.cn
 
@@ -124,3 +153,8 @@ ucloud.cn
 happyelements.cn
 sangfor.com.cn
 csdnimg.cn
+ai.cn
+metaso.cn
+unity.cn
+aiqicha.cn
+wjx.cn
