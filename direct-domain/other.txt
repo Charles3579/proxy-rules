@@ -49,14 +49,6 @@ puma.com.cn
 lululemon.cn
 underarmour.cn
 
-# 新浪
-weibo.cn
-sina.cn
-sina.com.cn
-sinaimg.cn
-sinajs.cn
-t.cn
-
 # 媒体
 news.cn
 people.com.cn
