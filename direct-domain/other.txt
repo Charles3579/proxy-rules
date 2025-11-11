@@ -15,7 +15,6 @@ dot.360.cn
 airchina.com.cn
 17u.cn
 40017.cn
-didi.cn
 
 # 餐饮
 mcd.cn
