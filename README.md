@@ -16,6 +16,10 @@
 
 `proxy-domain.txt`: 个人自用的需要代理的域名列表。
 
+大多数以非 ".cn" 结尾的中国域名已有其他仓库收集，本仓库不再加入，推荐：https://github.com/felixonmars/dnsmasq-china-list
+
+大多数需要代理的域名也已有其他仓库收集，本仓库仅作补充，推荐：https://github.com/gfwlist/gfwlist
+
 ### 获取规则
 #### Github:
 
