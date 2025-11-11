@@ -1,10 +1,12 @@
 naiixi.com
 nexitally.com
 amytele.net
+amysecure.com
 immtele.com
 kuromis.com
 kuraa1.com
 huacloud.net
+huacloud.dev
 api-flowercloud.com
 y-too.com
 to-ytoo.xyz
@@ -17,3 +19,5 @@ tkv.one
 dlercloud.com
 mesl.cloud
 sntp.uk
+ykkk.tech
+haitunt.org
