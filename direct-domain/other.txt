@@ -167,6 +167,7 @@ huihui.cn
 cas.cn
 tp-link.com.cn
 tplinkcloud.com.cn
+tplogin.cn
 asus.com.cn
 vivo.com.cn
 bilibili.cn
@@ -192,3 +193,4 @@ bilibilipay.cn
 biligame.cn
 bilivideo.cn
 wmsj.cn
+byr.cn
