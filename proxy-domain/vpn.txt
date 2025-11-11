@@ -21,3 +21,4 @@ mesl.cloud
 sntp.uk
 ykkk.tech
 haitunt.org
+sntp.pro
