@@ -3,6 +3,7 @@ acck.io
 akile.io
 akkocloud.com
 alice.ws
+amysecure.com
 amytele.net
 anyhk.net
 apernet.io
@@ -15,18 +16,21 @@ backwaves.net
 bagevm.com
 bandwagonhost.com
 bestvm.cloud
+binance.com
 bing.com
 bwh1.net
 bwh8.net
 bwh81.net
 bwh88.net
 bwh89.net
+bybit.com
 bytevirt.com
 c.mi.com
 churros.cloud
 claw.cloud
 cloudcone.com
 cnfaster.com
+coinbase.com
 copilot.microsoft.com
 creamdata.net
 cupronickel.goog
@@ -44,6 +48,8 @@ futuhn.com
 futuholdings.com
 futuniuniu.com
 futunn.com
+gate.com
+gate.io
 ggvision.net
 github.com
 google.ca
@@ -61,11 +67,14 @@ googleapis.com
 greencloudvps.com
 gspe1-ssl.ls.apple.com
 gstatic.com
+haitunt.org
 halocloud.net
 haruka.cloud
 homura.network
 hostdzire.com
 hostloc.com
+htx.com
+huacloud.dev
 huacloud.net
 hytron.io
 immtele.com
@@ -75,6 +84,7 @@ itiger.com
 itigergrowth.com
 itigergrowtha.com
 itigerup.com
+kraken.com
 kuaichedao.co
 kuraa1.com
 kuromis.com
@@ -93,6 +103,7 @@ mask.icloud.com
 mesl.cloud
 mikucloud.co
 misaka.io
+mkcloud.net
 moomoo.com
 moomooequity.com
 moomootrustee.com
@@ -106,6 +117,7 @@ niihost.com
 nnc.sh
 nodeseek.com
 nube.sh
+okx.com
 ovh.com
 ovhcloud.com
 polocloud.net
@@ -115,6 +127,7 @@ renet.tw
 rfchost.com
 saltyfish.io
 smartscreen.microsoft.com
+sntp.pro
 sntp.uk
 spartanhost.org
 stentvessel.shop
@@ -134,6 +147,7 @@ wepc.au
 xn--ngstr-lra8j.com
 y-too.com
 yin-net.com
+ykkk.tech
 yunyoo.cc
 yxvm.com
 zgovps.com

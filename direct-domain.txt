@@ -30,6 +30,8 @@ alipay.hk
 alipayhk.com
 allianz.com.cn
 allianzholding.cn
+animetamashi.cn
+anitama.cn
 antbank.hk
 apple-cloudkit.com
 apple-dns.cn
@@ -47,12 +49,23 @@ asus.com.cn
 autohome.com.cn
 bankcomm.cn
 bankcomm.com
+bigfun.cn
+bigfunapp.cn
+bili22.cn
+bili2233.cn
+bili23.cn
+bili33.cn
 bilibili.cn
+bilibiligame.cn
+bilibilipay.cn
+biligame.cn
+bilivideo.cn
 bkchina.cn
 blizzard.cn
 boc.cn
 bochk.com
 bydauto.com.cn
+byr.cn
 bytecdn.cn
 cainiao.com.cn
 cas.cn
@@ -254,6 +267,8 @@ st.dl.eccdnx.com
 st.dl.pinyuncloud.com
 starbucks.com.cn
 steamcontent.com
+t.cn
+tagtic.cn
 taobao.cn
 tb.cn
 tbcdn.cn
@@ -268,6 +283,7 @@ thepaper.cn
 threatbook.cn
 tp-link.com.cn
 tplinkcloud.com.cn
+tplogin.cn
 trae.cn
 trae.com.cn
 uc.cn
@@ -293,6 +309,7 @@ weibo.cn
 welab.bank
 windowsupdate.com
 wjx.cn
+wmsj.cn
 wo.cn
 wo.com.cn
 wosms.cn
