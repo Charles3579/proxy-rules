@@ -56,6 +56,7 @@ sina.cn
 sina.com.cn
 sinaimg.cn
 sinajs.cn
+t.cn
 
 # 媒体
 news.cn
