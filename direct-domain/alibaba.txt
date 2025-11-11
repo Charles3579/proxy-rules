@@ -76,3 +76,11 @@ vds.com.cn
 www.net.cn
 xinlingshou.cn
 zimgs.cn
+
+# 饿了么
+eleme.cn
+eleme.com.cn
+elemecdn.cn
+fengniaopaotui.cn
+fengniaozhongbao.cn
+youcaishop.cn
