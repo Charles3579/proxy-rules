@@ -24,6 +24,8 @@
 10jqka.com.cn
 12306.cn
 1234567.com.cn
+163cms.cn
+163img.cn
 1700.cn
 17u.cn
 189.cn
@@ -56,6 +58,7 @@ acimg.cn
 adidas.com.cn
 ai.cn
 aia.com.cn
+aianno.cn
 aig.com.cn
 aiqicha.cn
 airchina.com.cn
@@ -315,6 +318,8 @@ ectencent.cn
 ectencent.com.cn
 edu.cn
 eleme.cn
+eleme.com.cn
+elemecdn.cn
 eo-edgefunctions.cn
 eoacme0.cn
 epicgames-download1-1251447533.file.myqcloud.com
@@ -326,6 +331,8 @@ fastretailing.cn
 feelgood.cn
 feishu.cn
 feizhu.cn
+fengniaopaotui.cn
+fengniaozhongbao.cn
 fhldns.cn
 fhldns.com.cn
 fila.com.cn
@@ -388,6 +395,7 @@ gaqcloud.com.cn
 gaqcloudbackup.cn
 gaqcloudbackup.com.cn
 gitdrone.cn
+gitv.cn
 globaltenpay.cn
 gmedev.cn
 gmw.cn
@@ -452,6 +460,8 @@ icloud-content.com.cn
 icloud.com
 icloud.com.cn
 iconfont.cn
+icourse163.cn
+icourses163.cn
 icphoto.cn
 ieshs.cn
 ieshuodong.cn
@@ -489,6 +499,7 @@ jdl.cn
 jdl.com.cn
 jdlike.cn
 jetour.com.cn
+jiangbing.cn
 jiangzikanshu.cn
 jiguang.cn
 jingdonghealth.cn
@@ -635,8 +646,12 @@ picself.com.cn
 pingan.com.cn
 pipi.cn
 pizzahut.com.cn
+playfab.cn
 polarismesh.cn
 potops.cn
+ppstream.cn
+ppstream.com.cn
+ppstream.net.cn
 prestodb.net.cn
 private-tech.cn
 projectserval.cn
@@ -662,6 +677,7 @@ qgodb.cn
 qgodb.com.cn
 qidian.cn
 qingmail.cn
+qiyi.cn
 qiyou.cn
 qlivecdn.cn
 qlivertc.cn
@@ -748,6 +764,7 @@ st.dl.pinyuncloud.com
 starbucks.com.cn
 steamcontent.com
 submusic.cn
+suike.cn
 supercellcommunity.cn
 supercellsupport.cn
 superfix.cn
@@ -1246,11 +1263,17 @@ xuz0.cn
 yangfan.org.cn
 yangshipin.cn
 yayagushi.cn
+ydstatic.cn
 yhcdn.cn
 yidiancun.cn
+yodao.cn
+yodao.com.cn
+youcaishop.cn
 youpin.cn
 youpin.com.cn
 youth.cn
+ytiao.cn
+ytiny.cn
 yueantech.com.cn
 yufuid.com.cn
 yuntus.cn
