@@ -21,6 +21,8 @@ apple-dns.com.cn
 apple-dns.net
 
 push.apple.com
+courier.push.apple.com
+webcourier.push.apple.com
 
 configuration-lb.ls-apple.com.akadns.net
 courier-push-apple.com.akadns.net
