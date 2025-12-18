@@ -25,5 +25,6 @@ courier.push.apple.com
 webcourier.push.apple.com
 
 configuration-lb.ls-apple.com.akadns.net
+push-apple.com.akadns.net
 courier-push-apple.com.akadns.net
 courier-sandbox-push-apple.com.akadns.net
