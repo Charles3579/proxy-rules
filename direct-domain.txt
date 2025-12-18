@@ -236,6 +236,7 @@ converse.com.cn
 costco.com.cn
 courier-push-apple.com.akadns.net
 courier-sandbox-push-apple.com.akadns.net
+courier.push.apple.com
 coze.cn
 cpic.com.cn
 cri.com.cn
@@ -657,6 +658,8 @@ private-tech.cn
 projectserval.cn
 pubgno1.cn
 puma.com.cn
+push-apple.com.akadns.net
+push.apple.com
 qbanking.cn
 qcdne.cn
 qcdntest.cn
@@ -1198,6 +1201,7 @@ wbimg.com.cn
 wcdn.cn
 we-park.cn
 weather.com.cn
+webcourier.push.apple.com
 wechatlegal.cn
 wechatpay.cn
 wegame.com.cn
