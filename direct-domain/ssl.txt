@@ -1,9 +1,0 @@
-# CRL/OCSP 包含国内节点的域名
-c.pki.goog
-i.pki.goog
-o.pki.goog
-crl.digicert.cn
-ocsp.digicert.cn
-crl.globalsign.com
-ocsp.globalsign.com
-secure.globalsign.com
