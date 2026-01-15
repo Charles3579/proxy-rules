@@ -168,7 +168,6 @@ bytecdn.cn
 bytedance.cn
 bytelove.cn
 byteurl.cn
-c.pki.goog
 cainiao.com.cn
 cas.cn
 ccb.com
@@ -241,8 +240,6 @@ courier.push.apple.com
 coze.cn
 cpic.com.cn
 cri.com.cn
-crl.digicert.cn
-crl.globalsign.com
 crmpower.cn
 csdnimg.cn
 ctadns.cn
@@ -455,7 +452,6 @@ huoshanvideo.cn
 huoshanxiaoshipin.cn
 huoshanzhibo.cn
 huyagame.cn
-i.pki.goog
 i4.cn
 iachina.cn
 icbc.com.cn
@@ -624,12 +620,9 @@ nio.cn
 nktzj.cn
 nokialumia.com.cn
 nvsgames.cn
-o.pki.goog
 ocbc.com
 ocbc.com.hk
 oceanengine.cn
-ocsp.digicert.cn
-ocsp.globalsign.com
 oedcdn.cn
 opendatacenter.cn
 openrasp.cn
@@ -734,7 +727,6 @@ scl0.cn
 scsentry.cn
 sdb.com.cn
 searchcraft.cn
-secure.globalsign.com
 seres.cn
 serverlesscloud.cn
 sfapower.cn
