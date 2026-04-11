@@ -1,5 +1,6 @@
 711-cloud.net
 acck.io
+akile.ai
 akile.io
 akkocloud.com
 alice.ws
@@ -18,6 +19,7 @@ bandwagonhost.com
 bestvm.cloud
 binance.com
 bing.com
+breadcloud.io
 bwh1.net
 bwh8.net
 bwh81.net
@@ -85,6 +87,7 @@ linux.do
 lisahost.com
 lite.moe
 lowendtalk.com
+lucffee.com
 lycheen.com
 mask-api.icloud.com
 mask-h2.icloud.com
