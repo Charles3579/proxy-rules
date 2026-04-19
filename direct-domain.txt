@@ -166,6 +166,7 @@ baitiao.cn
 ban-ma.cn
 bankcomm.cn
 bankcomm.com
+bankofbeijing.com.cn
 bce-cdn.cn
 bcedns.cn
 bceimg.cn
@@ -192,6 +193,7 @@ blizzard.cn
 boc.cn
 bochk.com
 boombeach.cn
+bosc.cn
 brawlstars.cn
 businessinchina.com.cn
 bydauto.com.cn
@@ -235,6 +237,7 @@ chinaunicom.cn
 chinaunicom.com.cn
 chiyubank.com
 chsi.com.cn
+cib.com.cn
 cisf.cn
 citibank.com.hk
 citicbank.cn
@@ -493,6 +496,7 @@ huoshanvideo.cn
 huoshanxiaoshipin.cn
 huoshanzhibo.cn
 huyagame.cn
+hxb.com.cn
 hydrogen1693.com
 i4.cn
 iachina.cn
@@ -665,6 +669,7 @@ nike.com.cn
 nintendoswitch.cn
 nintendoswitch.com.cn
 nio.cn
+njcb.com.cn
 nktzj.cn
 nokialumia.com.cn
 nvsgames.cn
