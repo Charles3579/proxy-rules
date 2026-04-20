@@ -586,6 +586,7 @@ kxmz.org.cn
 l1xn.cn
 labycore.cn
 leapmotor.cn
+lenovo.com.cn
 light-cos.cn
 limgs.cn
 lingovalley-cdn.cn
@@ -707,6 +708,7 @@ pipi.cn
 pizzahut.com.cn
 playfab.cn
 polarismesh.cn
+popmart.com.cn
 potops.cn
 pplive.cn
 ppstream.cn
