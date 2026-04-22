@@ -1,0 +1,79 @@
+# HSBC
+hsbc.ca
+hsbc.co.uk
+hsbc.com
+hsbc.com.au
+hsbc.com.hk
+hsbc.com.mo
+hsbc.com.sg
+hsbc.com.tw
+hangseng.com
+
+# DBS
+dbs.com.hk
+dbs.com.sg
+
+# SC
+sc.com
+mox.com
+
+# OCBC
+ocbc.com
+ocbc.com.hk
+
+# NCB
+ncb.com.hk
+
+# CCB
+ccb.com
+
+# BOC
+bochk.com
+
+# ICBC
+icbcasia.com
+
+# UOB
+uob.com.sg
+uobgroup.com
+
+# BEA
+hkbea.com
+
+# CITI
+citibank.com.hk
+
+# CITIC
+cncbinternational.com
+
+# CMB
+cmbwinglungbank.com
+
+# Fubon
+fubon.com
+fubonbank.com.hk
+
+# Ant Group
+alipay.hk
+alipayhk.com
+antbank.hk
+
+# Virtual Bank
+airstarbank.com
+fusionbank.com
+livibank.com
+paob.com.hk
+welab.bank
+za.group
+
+# East West Bank
+eastwestbank.com
+
+# Bank of Communications
+bankcomm.com
+
+# Chiyu
+chiyubank.com
+
+# Dongguan Bank
+dongguanbank.cn

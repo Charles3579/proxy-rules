@@ -1,0 +1,70 @@
+# 银联
+cup.com.cn
+
+# 中银
+boc.cn
+
+# 工银
+icbc.com.cn
+
+# 建银
+ccb.com.cn
+
+# 农业
+95599.cn
+openaboc.cn
+
+# 浦发
+spdb.com.cn
+
+# 中信
+citicbank.cn
+
+# 交通
+bankcomm.cn
+
+# 平安
+pingan.com.cn
+sdb.com.cn
+jk.cn
+orangebank.com.cn
+
+# 民生
+cmbc.com.cn
+
+# 汇丰
+hsbc.com.cn
+
+# 广发
+cgbchina.com.cn
+
+# 星展
+dbs.com.cn
+
+# 南商
+ncbchina.cn
+
+# 宁波银行
+nbcb.com.cn
+
+# 南京银行
+njcb.com.cn
+
+# 华夏银行
+hxb.com.cn
+
+# 北京银行
+bankofbeijing.com.cn
+
+# 兴业银行
+cib.com.cn
+
+# 上海银行
+bosc.cn
+
+# 同花顺
+10jqka.com.cn
+hexin.cn
+
+# 天天基金
+1234567.com.cn
