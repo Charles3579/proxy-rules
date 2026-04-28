@@ -65,6 +65,7 @@ livibank.com
 paob.com.hk
 welab.bank
 za.group
+zaticdn.com
 
 # East West Bank
 eastwestbank.com
