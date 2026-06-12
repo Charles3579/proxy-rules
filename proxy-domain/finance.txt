@@ -6,3 +6,39 @@ htx.com
 bybit.com
 coinbase.com
 kraken.com
+
+# 富途证券
+futuesop.com
+futufin.com
+futuhk.com
+futuhkapp.com
+futuhn.com
+futuholdings.com
+futuniuniu.com
+futunn.com
+futustatic.com
+
+# 富途 moomoo 证券
+moomoo.com
+moomooequity.com
+moomootrustee.com
+
+# 老虎证券
+itiger.com
+itigergrowth.com
+itigergrowtha.com
+itigerup.com
+laohu8.com
+skytigris.cn
+
+# 长桥证券
+longbridge.cloud
+longbridge.com
+longbridge.global
+longbridge.hk
+longbridge.sg
+longbridgeapp.com
+longportapp.com
+lbctrl.com
+lbkrs.com
+wbrks.com
