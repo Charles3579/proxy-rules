@@ -319,6 +319,7 @@ dl.steam.clngaa.com
 dl.steam.ksyna.com
 dllzff.cn
 dns.alidns.com
+dns2.cooluc.com
 dnsapi.cn
 dnse0.cn
 dnse1.cn
