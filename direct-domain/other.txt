@@ -12,6 +12,7 @@ dot.360.cn
 
 # Private Direct DNS
 dns2.cooluc.com
+mosdns.apad.pro
 
 # VPN Direct DNS
 delirium9599.com
