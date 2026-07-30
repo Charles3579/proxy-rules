@@ -3,12 +3,15 @@ gov.cn
 edu.cn
 ac.cn
 
-# DNS
+# Public Direct DNS
 dns.alidns.com
 doh.pub
 dot.pub
 doh.360.cn
 dot.360.cn
+
+# Private Direct DNS
+dns2.cooluc.com
 
 # VPN Direct DNS
 delirium9599.com
