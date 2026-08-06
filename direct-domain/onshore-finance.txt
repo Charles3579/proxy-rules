@@ -36,6 +36,7 @@ cmbc.com.cn
 hsbc.com.cn
 
 # 广发
+cgbchina.cn
 cgbchina.com.cn
 
 # 星展
