@@ -221,6 +221,7 @@ cdnv2.cn
 cdnv3.cn
 cdnv4-go.cn
 ce.cn
+cgbchina.cn
 cgbchina.com.cn
 changan.com.cn
 chery.cn
