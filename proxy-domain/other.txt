@@ -8,3 +8,16 @@ global.market.xiaomi.com
 # PikPak
 mypikpak.com
 mypikpak.net
+
+# Quantumult X
+quantumult.app
+
+# Surge
+surge.mitsea.com
+nssurge.com
+surge-activation.com
+
+# Stash
+stash.ws
+stash.wiki
+stash-activation.com
