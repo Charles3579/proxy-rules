@@ -1,6 +1,9 @@
 engage.cloudflareclient.com
 github.com
+
+# Xiaomi Overseas Only
 c.mi.com
+global.market.xiaomi.com
 
 # PikPak
 mypikpak.com
