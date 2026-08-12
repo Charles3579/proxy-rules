@@ -15,3 +15,6 @@ mask.icloud.com
 pki.safebrowsing.apple
 proxy.safebrowsing.apple
 token.safebrowsing.apple
+
+# APNs
+push.apple.com
