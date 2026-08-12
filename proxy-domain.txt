@@ -154,6 +154,7 @@ pki.safebrowsing.apple
 polocloud.net
 pqs.pw
 proxy.safebrowsing.apple
+push.apple.com
 quantumult.app
 racknerd.com
 renet.tw
