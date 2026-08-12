@@ -117,18 +117,11 @@ animetamashi.cn
 anitama.cn
 antbank.hk
 antgroup-inc.cn
-apple-cloudkit.com
 apple-dns.cn
-apple-dns.com
 apple-dns.com.cn
-apple-dns.net
-apple-livephotoskit.com
-apple-mapkit.com
 apple.cn
-apple.com
 apple.com.cn
 apptaxi.com.cn
-apzones.com
 aquaterra.cn
 aquaterra.com.cn
 asfiovnxocqpcry.com.cn
@@ -210,7 +203,6 @@ ccb.com
 ccb.com.cn
 cctv.cn
 cdn-ali.content.steamchina.com
-cdn-apple.com
 cdn-go.cn
 cdn-qc.content.steamchina.com
 cdn-ws.content.steamchina.com
@@ -273,11 +265,8 @@ codehub.cn
 cofile.com.cn
 cofile.net.cn
 conac.cn
-configuration-lb.ls-apple.com.akadns.net
 converse.com.cn
 costco.com.cn
-courier-push-apple.com.akadns.net
-courier-sandbox-push-apple.com.akadns.net
 coze.cn
 cpic.com.cn
 cri.com.cn
@@ -504,9 +493,7 @@ i4.cn
 iachina.cn
 icbc.com.cn
 icbcasia.com
-icloud-content.com
 icloud-content.com.cn
-icloud.com
 icloud.com.cn
 iconfont.cn
 icourse163.cn
@@ -652,7 +639,6 @@ myhichina.cn
 mynet.cn
 myqcloud.cn
 myqcloud.com.cn
-mzstatic.com
 nbcb.com.cn
 ncb.com.hk
 ncbchina.cn
@@ -724,7 +710,6 @@ private-tech.cn
 projectserval.cn
 pubgno1.cn
 puma.com.cn
-push-apple.com.akadns.net
 qbanking.cn
 qcdne.cn
 qcdntest.cn
