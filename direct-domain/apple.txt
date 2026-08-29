@@ -31,6 +31,9 @@ appldnld.apple.com
 xp.apple.com
 xp-cdn.apple.com
 
+# Apple Diagnostics
+diagassets.apple.com
+
 # Apple Time
 time.apple.com
 time-macos.apple.com
