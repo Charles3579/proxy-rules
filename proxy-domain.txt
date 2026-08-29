@@ -37,6 +37,10 @@ cloudcone.com
 cnfaster.com
 coinbase.com
 copilot.microsoft.com
+courier-push-apple.com.akadns.net
+courier-sandbox-push-apple.com.akadns.net
+courier.push.apple.com
+courier.sandbox.push.apple.com
 cp4.cloudflare.com
 creamdata.net
 cupronickel.goog
@@ -165,12 +169,14 @@ pki.safebrowsing.apple
 polocloud.net
 pqs.pw
 proxy.safebrowsing.apple
+push-apple.com.akadns.net
 push.apple.com
 quantumult.app
 racknerd.com
 renet.tw
 rfchost.com
 saltyfish.io
+sandbox.push.apple.com
 seek.li
 sgupd.com
 skytigris.cn
@@ -184,6 +190,7 @@ stash.ws
 stentvessel.shop
 surge-activation.com
 surge.mitsea.com
+swiftgram.app
 taphip.com
 technovm.com
 tigerbbs.cn
@@ -200,6 +207,7 @@ vps.town
 wap.ac
 wawo.wiki
 wbrks.com
+webcourier.push.apple.com
 wepc.au
 xiaohu8.com
 xn--ngstr-lra8j.com
