@@ -29,6 +29,10 @@ updates-http.cdn-apple.com
 appldnld.apple.com
 configuration.apple.com
 
+# Apple Store
+mzstorekit.itunes.apple.com
+inappcheck.itunes.apple.com
+
 # Apple Report
 xp.apple.com
 xp-cdn.apple.com
