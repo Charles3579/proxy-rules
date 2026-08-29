@@ -1,0 +1,23 @@
+# Tencent Cloud
+ntp.tencent.com
+ntp1.tencent.com
+ntp2.tencent.com
+ntp3.tencent.com
+ntp4.tencent.com
+ntp5.tencent.com
+time.cloud.tencent.com
+time1.cloud.tencent.com 
+time2.cloud.tencent.com 
+time3.cloud.tencent.com
+time4.cloud.tencent.com
+time5.cloud.tencent.com
+
+# Aliyun
+ntp.aliyun.com
+ntp1.aliyun.com
+ntp2.aliyun.com
+ntp3.aliyun.com
+ntp4.aliyun.com
+ntp5.aliyun.com
+ntp6.aliyun.com
+ntp7.aliyun.com
