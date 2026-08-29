@@ -46,6 +46,9 @@ time.apple.com
 time-macos.apple.com
 time-ios.apple.com
 
+# Apple Weather
+weatherkit.apple.com
+
 # iCloud
 apple-native-relay.apple.com
 metrics.icloud.com
