@@ -53,6 +53,8 @@ bag.itunes.apple.com
 sandbox.itunes.apple.com
 mzstorekit.itunes.apple.com
 inappcheck.itunes.apple.com
+cabana-server.cdn-apple.com
+pcms.apple.com
 
 # Apple Report
 xp.apple.com
@@ -103,3 +105,7 @@ probe.icloud.com
 
 # Mail
 mail.me.com
+
+# AD
+iadsdk.apple.com
+api-adservices.apple.com
