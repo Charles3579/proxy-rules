@@ -30,6 +30,7 @@ appldnld.apple.com
 configuration.apple.com
 
 # Apple Store
+amp-api-edge.apps.apple.com
 mzstorekit.itunes.apple.com
 inappcheck.itunes.apple.com
 
