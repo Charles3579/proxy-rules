@@ -41,6 +41,7 @@ swdownload.apple.com
 swscan.apple.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
+gdmf-ados.apple.com
 gsra.apple.com
 wkms-public.apple.com
 fcs-keys-pub-prod.cdn-apple.com
@@ -116,3 +117,6 @@ api-adservices.apple.com
 # Associated Domains
 app-site-association.cdn-apple.com
 app-site-association.networking.apple
+
+# Unknown purpose
+publicassets.cdn-apple.com
