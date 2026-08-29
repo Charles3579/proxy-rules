@@ -112,3 +112,7 @@ mail.me.com
 # AD
 iadsdk.apple.com
 api-adservices.apple.com
+
+# Associated Domains
+app-site-association.cdn-apple.com
+app-site-association.networking.apple
