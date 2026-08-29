@@ -5,6 +5,7 @@ gspe1-ssl.ls.apple.com
 apple-relay.apple.com
 apple-relay.cloudflare.com
 apple-relay.fastly-edge.com
+cp4.cloudflare.com
 
 # iCloud 专用代理
 mask-api.icloud.com
