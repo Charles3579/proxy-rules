@@ -52,6 +52,7 @@ time.asia.apple.com
 weatherkit.apple.com
 
 # iCloud
+gateway.icloud.com
 apple-native-relay.apple.com
 metrics.icloud.com
 pong.icloud.com
