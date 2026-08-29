@@ -23,6 +23,7 @@ tbsc.apple.com
 gsa.apple.com
 idmsa.apple.com
 setup.icloud.com
+amp-account.itunes.apple.com
 
 # Software updates
 appldnld.apple.com
@@ -49,6 +50,7 @@ amp-api.apps.apple.com
 amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
 bag.itunes.apple.com
+sandbox.itunes.apple.com
 mzstorekit.itunes.apple.com
 inappcheck.itunes.apple.com
 
