@@ -1,3 +1,17 @@
+apple.com
+cdn-apple.com
+
+apple-cloudkit.com
+apple-livephotoskit.com
+apple-mapkit.com
+
+icloud.com
+icloud-content.com
+
+axm-usercontent-apple.com
+
+
+# CN
 apple.cn
 apple.com.cn
 
@@ -7,116 +21,4 @@ icloud-content.com.cn
 apple-dns.cn
 apple-dns.com.cn
 
-# 部分软件限制外区下载，直连此域名
-downloaddispatch.itunes.apple.com
-
-# Device setup
-albert.apple.com
-captive.apple.com
-gs.apple.com
-humb.apple.com
-static.ips.apple.com
-sq-device.apple.com
-tbsc.apple.com
-
-# Apple Account
-gsa.apple.com
-idmsa.apple.com
-setup.icloud.com
-amp-account.itunes.apple.com
-
-# Software updates
-appldnld.apple.com
-configuration.apple.com
-gdmf.apple.com
-gg.apple.com
-ig.apple.com
-mesu.apple.com
-oscdn.apple.com
-osrecovery.apple.com
-skl.apple.com
-swcdn.apple.com
-swdist.apple.com
-swdownload.apple.com
-swscan.apple.com
-updates-http.cdn-apple.com
-updates.cdn-apple.com
-gdmf-ados.apple.com
-gsra.apple.com
-wkms-public.apple.com
-fcs-keys-pub-prod.cdn-apple.com
-
-# Apple Store
-amp-api.apps.apple.com
-amp-api-edge.apps.apple.com
-amp-api-search-edge.apps.apple.com
-bag.itunes.apple.com
-sandbox.itunes.apple.com
-iosapps.itunes.apple.com
-fpinit.itunes.apple.com
-amd-infra.itunes.apple.com
-mzstorekit.itunes.apple.com
-inappcheck.itunes.apple.com
-cabana-server.cdn-apple.com
-pcms.apple.com
-
-# Apple Report
-xp.apple.com
-xp-cdn.apple.com
-
-# Apple Diagnostics
-diagassets.apple.com
-
-# Apple Certificate Validation
-certs.apple.com
-crl.apple.com
-ocsp.apple.com
-ocsp2.apple.com
-valid.apple.com
-
-# Apple Time
-time.apple.com
-time-macos.apple.com
-time-ios.apple.com
-time.asia.apple.com
-
-# Apple Weather
-weatherkit.apple.com
-
-# Apps and additional content
-ppq.apple.com
-api.apple-cloudkit.com
-audiocontentdownload.apple.com
-sylvan.apple.com
-playground-cdn.apple.com
-playground-assets-cdn.apple.com
-download.developer.apple.com
-devimages-cdn.apple.com
-
-# ID Verifier on iPhone
-smp-device-content.apple.com
-idv.cdn-apple.com
-idv-prod1.apple.com
-humb.apple.com
-
-# iCloud
-gateway.icloud.com
-icloud-content.com
-apple-native-relay.apple.com
-metrics.icloud.com
-pong.icloud.com
-probe.icloud.com
-
-# Mail
-mail.me.com
-
-# AD
-iadsdk.apple.com
-api-adservices.apple.com
-
-# Associated Domains
-app-site-association.cdn-apple.com
-app-site-association.networking.apple
-
-# Unknown purpose
-publicassets.cdn-apple.com
+apzones.com
