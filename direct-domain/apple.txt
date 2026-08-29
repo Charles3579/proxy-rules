@@ -9,3 +9,35 @@ apple-dns.com.cn
 
 # 部分软件限制外区下载，直连此域名
 downloaddispatch.itunes.apple.com
+
+# Apple Device Setup
+captive.apple.com
+
+# Apple Account
+gsa.apple.com
+idmsa.apple.com
+
+# Apple Update
+gdmf.apple.com
+gg.apple.com
+gs.apple.com
+mesu.apple.com
+wkms-public.apple.com
+updates.cdn-apple.com
+updates-http.cdn-apple.com
+appldnld.apple.com
+
+# Apple Report
+xp.apple.com
+xp-cdn.apple.com
+
+# Apple Time
+time.apple.com
+time-macos.apple.com
+time-ios.apple.com
+
+# iCloud
+apple-native-relay.apple.com
+metrics.icloud.com
+pong.icloud.com
+probe.icloud.com
