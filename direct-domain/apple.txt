@@ -27,6 +27,7 @@ wkms-public.apple.com
 updates.cdn-apple.com
 updates-http.cdn-apple.com
 appldnld.apple.com
+configuration.apple.com
 
 # Apple Report
 xp.apple.com
