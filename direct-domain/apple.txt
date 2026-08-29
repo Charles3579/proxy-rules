@@ -46,6 +46,7 @@ valid.apple.com
 time.apple.com
 time-macos.apple.com
 time-ios.apple.com
+time.asia.apple.com
 
 # Apple Weather
 weatherkit.apple.com
