@@ -24,15 +24,25 @@ gsa.apple.com
 idmsa.apple.com
 setup.icloud.com
 
-# Apple Update
-gdmf.apple.com
-gg.apple.com
-mesu.apple.com
-wkms-public.apple.com
-updates.cdn-apple.com
-updates-http.cdn-apple.com
+# Software updates
 appldnld.apple.com
 configuration.apple.com
+gdmf.apple.com
+gg.apple.com
+ig.apple.com
+mesu.apple.com
+oscdn.apple.com
+osrecovery.apple.com
+skl.apple.com
+swcdn.apple.com
+swdist.apple.com
+swdownload.apple.com
+swscan.apple.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+gsra.apple.com
+wkms-public.apple.com
+fcs-keys-pub-prod.cdn-apple.com
 
 # Apple Store
 amp-api-edge.apps.apple.com
