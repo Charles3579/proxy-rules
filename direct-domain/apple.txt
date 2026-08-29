@@ -58,7 +58,7 @@ time.asia.apple.com
 # Apple Weather
 weatherkit.apple.com
 
-# Apple Apps and additional content
+# Apps and additional content
 ppq.apple.com
 api.apple-cloudkit.com
 audiocontentdownload.apple.com
@@ -67,6 +67,12 @@ playground-cdn.apple.com
 playground-assets-cdn.apple.com
 download.developer.apple.com
 devimages-cdn.apple.com
+
+# ID Verifier on iPhone
+smp-device-content.apple.com
+idv.cdn-apple.com
+idv-prod1.apple.com
+humb.apple.com
 
 # iCloud
 gateway.icloud.com
