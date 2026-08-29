@@ -7,6 +7,10 @@ apple-relay.cloudflare.com
 apple-relay.fastly-edge.com
 cp4.cloudflare.com
 
+# Siri 待定
+#guzzoni.apple.com
+#smoot.apple.com
+
 # iCloud 专用代理
 mask-api.icloud.com
 mask-h2.icloud.com
