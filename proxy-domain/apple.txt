@@ -19,3 +19,10 @@ token.safebrowsing.apple
 
 # APNs
 push.apple.com
+courier.push.apple.com
+sandbox.push.apple.com
+courier.sandbox.push.apple.com
+webcourier.push.apple.com
+push-apple.com.akadns.net
+courier-push-apple.com.akadns.net
+courier-sandbox-push-apple.com.akadns.net
