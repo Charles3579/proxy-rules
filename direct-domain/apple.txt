@@ -55,3 +55,6 @@ apple-native-relay.apple.com
 metrics.icloud.com
 pong.icloud.com
 probe.icloud.com
+
+# Mail
+mail.me.com
