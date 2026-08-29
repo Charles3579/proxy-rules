@@ -16,6 +16,7 @@ quantumult.app
 surge.mitsea.com
 nssurge.com
 surge-activation.com
+sgupd.com
 
 # Stash
 stash.ws
