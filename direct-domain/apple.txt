@@ -34,6 +34,13 @@ xp-cdn.apple.com
 # Apple Diagnostics
 diagassets.apple.com
 
+# Apple Certificate Validation
+certs.apple.com
+crl.apple.com
+ocsp.apple.com
+ocsp2.apple.com
+valid.apple.com
+
 # Apple Time
 time.apple.com
 time-macos.apple.com
