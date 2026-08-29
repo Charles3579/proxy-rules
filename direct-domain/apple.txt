@@ -10,8 +10,14 @@ apple-dns.com.cn
 # 部分软件限制外区下载，直连此域名
 downloaddispatch.itunes.apple.com
 
-# Apple Device Setup
+# Device setup
+albert.apple.com
 captive.apple.com
+gs.apple.com
+humb.apple.com
+static.ips.apple.com
+sq-device.apple.com
+tbsc.apple.com
 
 # Apple Account
 gsa.apple.com
@@ -21,7 +27,6 @@ setup.icloud.com
 # Apple Update
 gdmf.apple.com
 gg.apple.com
-gs.apple.com
 mesu.apple.com
 wkms-public.apple.com
 updates.cdn-apple.com
