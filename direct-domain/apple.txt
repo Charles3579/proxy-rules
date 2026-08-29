@@ -16,6 +16,7 @@ captive.apple.com
 # Apple Account
 gsa.apple.com
 idmsa.apple.com
+setup.icloud.com
 
 # Apple Update
 gdmf.apple.com
