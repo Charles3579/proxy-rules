@@ -22,3 +22,7 @@ sgupd.com
 stash.ws
 stash.wiki
 stash-activation.com
+
+# Other
+encmasuta.com
+docofcard.com
