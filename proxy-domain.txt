@@ -7,6 +7,7 @@ alice.ws
 amysecure.com
 amytele.net
 anyhk.net
+anyrouter.top
 apernet.io
 api-flowercloud.com
 apple-relay.apple.com
@@ -19,6 +20,7 @@ bandwagonhost.com
 bestvm.cloud
 binance.com
 bing.com
+boil.network
 breadcloud.io
 bwh1.net
 bwh8.net
@@ -29,19 +31,23 @@ bybit.com
 bytevirt.com
 c.mi.com
 churros.cloud
+ciallonetworks.com
 claw.cloud
 cloudcone.com
 cnfaster.com
 coinbase.com
 copilot.microsoft.com
+cp4.cloudflare.com
 creamdata.net
 cupronickel.goog
 deepflood.com
 designer.microsoft.com
 dlercloud.com
 dmit.io
+docofcard.com
 duocloud.net
 edge.microsoft.com
+encmasuta.com
 engage.cloudflareclient.com
 futu.cn
 futu.link
@@ -63,6 +69,7 @@ futustatic.com
 fututrade.com
 gate.com
 gate.io
+geelinx.com
 ggvision.net
 github.com
 global.market.xiaomi.com
@@ -98,6 +105,8 @@ itiger.com
 itigergrowth.com
 itigergrowtha.com
 itigerup.com
+kelee.one
+kfcloud.net
 kraken.com
 kuaichedao.co
 kuraa1.com
@@ -144,6 +153,8 @@ netcup.com
 nexitally.com
 niihost.com
 nnc.sh
+nodehatch.com
+nodequality.com
 nodeseek.com
 nssurge.com
 nube.sh
@@ -160,6 +171,8 @@ racknerd.com
 renet.tw
 rfchost.com
 saltyfish.io
+seek.li
+sgupd.com
 skytigris.cn
 smartscreen.microsoft.com
 sntp.pro
@@ -193,6 +206,8 @@ xn--ngstr-lra8j.com
 y-too.com
 yin-net.com
 ykkk.tech
+yunwu.ai
 yunyoo.cc
 yxvm.com
 zgovps.com
+zouter.io
