@@ -51,6 +51,9 @@ amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
 bag.itunes.apple.com
 sandbox.itunes.apple.com
+iosapps.itunes.apple.com
+fpinit.itunes.apple.com
+amd-infra.itunes.apple.com
 mzstorekit.itunes.apple.com
 inappcheck.itunes.apple.com
 cabana-server.cdn-apple.com
