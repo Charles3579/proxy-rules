@@ -52,6 +52,16 @@ time.asia.apple.com
 # Apple Weather
 weatherkit.apple.com
 
+# Apple Apps and additional content
+ppq.apple.com
+api.apple-cloudkit.com
+audiocontentdownload.apple.com
+sylvan.apple.com
+playground-cdn.apple.com
+playground-assets-cdn.apple.com
+download.developer.apple.com
+devimages-cdn.apple.com
+
 # iCloud
 gateway.icloud.com
 apple-native-relay.apple.com
