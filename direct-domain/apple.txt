@@ -64,6 +64,7 @@ devimages-cdn.apple.com
 
 # iCloud
 gateway.icloud.com
+icloud-content.com
 apple-native-relay.apple.com
 metrics.icloud.com
 pong.icloud.com
