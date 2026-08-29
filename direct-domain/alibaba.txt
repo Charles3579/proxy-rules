@@ -127,3 +127,5 @@ cn-wulanchabu-gic-1.aliyuncs.com
 cn-shanghai-finance-1.aliyuncs.com
 cn-beijing-finance-1.aliyuncs.com
 cn-shenzhen-finance-1.aliyuncs.com
+
+resolvers-cn.httpdns.aliyuncs.com
