@@ -1,4 +1,5 @@
 711-cloud.net
+9es.im
 acck.io
 akile.ai
 akile.io
@@ -51,8 +52,11 @@ dmit.io
 docofcard.com
 duocloud.net
 edge.microsoft.com
+egernapp.com
+egernlicense.com
 encmasuta.com
 engage.cloudflareclient.com
+esim.cc
 futu.cn
 futu.link
 futu5.com
