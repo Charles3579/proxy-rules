@@ -23,6 +23,10 @@ stash.ws
 stash.wiki
 stash-activation.com
 
+# Egern
+egernapp.com
+egernlicense.com
+
 # Other
 encmasuta.com
 docofcard.com
